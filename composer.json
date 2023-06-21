@@ -38,15 +38,15 @@
             "Database\\Seeders\\": "database/seeders/"
         },
         "files": [
-            "2023_05_29_184212_create_permission_tables.php",
-            "2023_05_29_185916_add_username_active_to_users_table.php",
-            "2023_06_05_193945_add_soft_delete_columns_to_users_table.php",
-            "2023_06_05_195220_add_dark_mode_to_users.php",
-            "2023_06_06_203548_create_allowed_ips_table.php",
-            "2023_06_07_131632_add_description_to_allowed_ips.php",
-            "2023_06_07_140943_add_columns_to_users_table.php",
-            "2023_06_07_142148_create_allowed_times_table.php"
-	    ]
+            "database/migrations/2023_05_29_184212_create_permission_tables.php",
+            "database/migrations/2023_05_29_185916_add_username_active_to_users_table.php",
+            "database/migrations/2023_06_05_193945_add_soft_delete_columns_to_users_table.php",
+            "database/migrations/2023_06_05_195220_add_dark_mode_to_users.php",
+            "database/migrations/2023_06_06_203548_create_allowed_ips_table.php",
+            "database/migrations/2023_06_07_131632_add_description_to_allowed_ips.php",
+            "database/migrations/2023_06_07_140943_add_columns_to_users_table.php",
+            "database/migrations/2023_06_07_142148_create_allowed_times_table.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
