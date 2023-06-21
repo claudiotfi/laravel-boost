@@ -45,7 +45,8 @@
             "src/database/migrations/2023_06_06_203548_create_allowed_ips_table.php",
             "src/database/migrations/2023_06_07_131632_add_description_to_allowed_ips.php",
             "src/database/migrations/2023_06_07_140943_add_columns_to_users_table.php",
-            "src/database/migrations/2023_06_07_142148_create_allowed_times_table.php"
+            "src/database/migrations/2023_06_07_142148_create_allowed_times_table.php",
+            "src/resources/views"
         ]
     },
     "autoload-dev": {
