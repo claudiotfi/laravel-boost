@@ -12,7 +12,7 @@ class LaravelBoostInstaller
 
         if ($packageName === 'claudiotfi/laravel-boost') {
             $sourceDir = __DIR__ . '/resources/views';
-            $targetDir = base_path('resources/views/vendor/laravelboost');
+            $targetDir = base_path('resources/views/vendor');
 
             if (!file_exists($targetDir)) {
                 mkdir($targetDir, 0755, true);
