@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://packagist.org/packages/claudiotfi/laravel-boost"><img src="https://img.shields.io/packagist/v/claudiotfi/laravel-boost" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/claudiotfi/laravel-boost"><img src="[https://img.shields.io/packagist/l/laravel/framework](https://packagist.org/packages/claudiotfi/laravel-boost)" alt="License"></a>
+</p>
 # Laravel Boost
 O pacote é um conjunto de recursos e funcionalidades baseadas no framework Laravel e no pacote Laravel Spatie. Ele oferece um painel de administração pronto para ser extendido a todo o sistema e inclui recursos avançados de ACL e edição de perfil.
 
@@ -19,5 +23,4 @@ composer require claudiotfi/laravel-boost:dev-main
 Após a instalação, rode 'php artisan migrate' para criar/atualizar as tabelas
 
 ## Licença
-
-MIT
+[MIT license](https://opensource.org/licenses/MIT)
